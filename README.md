@@ -5,7 +5,7 @@
 
 访问/install.php即可
 
-![image](https://imgse.com/i/pPwoecq)
+[![pPwoecq.png](https://s1.ax1x.com/2023/08/31/pPwoecq.png)](https://imgse.com/i/pPwoecq)
 
 
 
